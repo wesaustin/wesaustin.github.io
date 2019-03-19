@@ -29,7 +29,7 @@ subtitle:
 ## Work in Progress
 ----
 
-1. [Coal Combustion Residuals, Water Quality, and Fetal Health]("http://www.wesaustin.github.io/files/School Bus Emissions, Student Health, Academic Achievement.pdf") .
+1. [Coal Combustion Residuals, Water Quality, and Fetal Health] .
 
    <details><summary> Abstract (+) </summary>
    
