@@ -1,7 +1,7 @@
 ---
 layout: post
-title: First post!
+title: Welcome to my page!
 image: /img/hello_world.jpeg
 ---
 
-Welcome to my page!
+This is where I'll post any updates to my research. Thank you for visiting! 
