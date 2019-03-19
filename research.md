@@ -29,7 +29,7 @@ subtitle:
 ## Work in Progress
 ----
 
-1. [Coal Combustion Residuals, Water Quality, and Fetal Health](https://wesaustin.github.io/files/WQ_and_Fetal_Health_Draft_110818.pdf).
+1. Coal Combustion Residuals, Water Quality, and Fetal Health.
 
    <details><summary> Abstract (+) </summary>
    
