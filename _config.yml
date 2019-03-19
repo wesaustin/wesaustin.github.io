@@ -24,7 +24,7 @@ description: A virtual home for my research, thoughts, and class links.
 # List of links in the navigation bar
 navbar-links:
   Research: "research"
-  CV: "http://www.wesaustin.github.io/files/CV.pdf"
+  CV: "https://wesaustin.github.io/files/CV.pdf"
   References: "references"
   Media: "media"
 
