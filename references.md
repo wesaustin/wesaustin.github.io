@@ -15,7 +15,7 @@ I am grateful to the following faculty for providing excellent guidance and supp
    Georgia State University   
    [tsass@gsu.edu](mailto:tsass@gsu.edu)  
 
-- [Garth Heutel](http://sites.gsu.edu/gheutel/)
+- [Garth Heutel](http://sites.gsu.edu/gheutel/)     
    Department of Economics    
    Andrew Young School of Policy Studies   
    Georgia State University  
