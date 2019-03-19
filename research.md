@@ -29,7 +29,7 @@ subtitle:
 ## Work in Progress
 ----
 
-1. [Coal Combustion Residuals, Water Quality, and Fetal Health]() .
+1. [Coal Combustion Residuals, Water Quality, and Fetal Health]("http://www.wesaustin.github.io/files/School Bus Emissions, Student Health, Academic Achievement.pdf") .
 
    <details><summary> Abstract (+) </summary>
    
@@ -37,7 +37,7 @@ subtitle:
    <p align="justify"> Coal ash accounts for one third of industrial water pollution in the United States.  No previous study hasinvestigated how this form of water pollution may impact municipal water quality.  I geographically linkthe universe of municipal water quality tests in North Carolina to information on coal ash discharges fromthe Toxic Releases Inventory to demonstrate the average relationship between surface water releases andmunicipal water quality.  Then, incorporating information on heavy rains and flooding from the NationalOceanic and Atmospheric Administration, I show how these relatively common weather events exacerbatethe risk of ash pond impounds impacting municipal water quality.  Finally, I estimate the cost of coal ashwater pollution in terms of municipal water system fines for water quality violations, finding that theburden of coal ash pollution on municipal water systems in North Carolina is approximately $950,000,or one fifth of all fines assessed from 2005-2017<br></p> </blockquote>   
    </details>
 
-2. [Farm-to-School Programs and Local Agricultural Revenues]() (with George William Davis). 
+2. [Farm-to-School Programs and Local Agricultural Revenues] (with George William Davis). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
