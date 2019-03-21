@@ -4,7 +4,7 @@ title: Research
 subtitle: 
 ---
 
-## Peer Reviewed Publications
+## Publications
 ----
 
 1. [School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman and Garth Heutel) **Economics of Education Review**. 2019.
