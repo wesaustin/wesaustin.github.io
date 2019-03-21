@@ -5,7 +5,7 @@
 
 # If you are building a simple GitHub user page (https://username.github.io) then use these settings:
 #url: "https://wesaustin.github.io"
-url: "http://www.wes-austin.com"
+url: "http://wes-austin.com"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -26,7 +26,7 @@ description: A virtual home for my research, thoughts, and class links.
 navbar-links:
   Research: "research"
   #CV: "https://wesaustin.github.io/files/CV.pdf"
-  CV: "http://www.wes-austin.com/files/Austin_CV_031919.pdf"
+  CV: "http://wes-austin.com/files/Austin_CV_031919.pdf"
   References: "references"
   Media: "media"
 
