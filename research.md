@@ -49,4 +49,4 @@ subtitle:
 
 4. School Bus Diesel Emissions and Academic Performance: A National Study 
 
-5. Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong and Michele Baggio) 
+5. Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele Baggio, and Yasin Civelek) 
