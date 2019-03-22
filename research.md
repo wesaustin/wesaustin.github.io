@@ -48,5 +48,3 @@ subtitle:
 3. Municipal Water Quality and Fetal Health (with Mike Pesko) 
 
 4. School Bus Diesel Emissions and Academic Performance: A National Study 
-
-5. Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele Baggio, and Yasin Civelek) 
