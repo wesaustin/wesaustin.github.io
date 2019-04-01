@@ -28,7 +28,16 @@ subtitle:
 ## Work in Progress
 ----
 
-1. Coal Combustion Residuals, Water Quality, and Fetal Health.
+1. School Bus Diesel Emissions and Academic Performance: A National Study 
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+Prior work shows that air pollution affects cognitive performance, and school bus diesel emissions meaningfully contribute to this exposure for school-age children. I exploit variation in the timing and location of 28,000 school bus engine retrofits or replacements across the US from 2008-2016 to test how reducing diesel emissions affects student test scores. I also incorporate satellite-based PM 2.5 measurements from the Atmospheric Composition Analysis Group to provide the first evidence that these engine retrofits significantly reduce ambient atmospheric pollution levels, suggesting potentially large spillover benefits from the retrofits separate from the student test score improvements. Finally, I ask how the cost of retrofitting these busses, approximately $233 million over 209 unique grant cycles, compares to the monetized benefits of the observed test score improvements.
+   <br></p> </blockquote>   
+   </details> 
+   
+ 2. Coal Combustion Residuals, Water Quality, and Fetal Health.
 
    <details><summary> Abstract (+) </summary>
    
@@ -36,7 +45,7 @@ subtitle:
    <p align="justify"> Coal ash accounts for one third of industrial water pollution in the United States.  No previous study has investigated how this form of water pollution may impact municipal water quality.  I geographically link the universe of municipal water quality tests in North Carolina to information on coal ash discharges from the Toxic Releases Inventory to demonstrate the average relationship between surface water releases and municipal water quality.  Then, incorporating information on heavy rains and flooding from the National Oceanic and Atmospheric Administration, I show how these relatively common weather events exacerbate the risk of ash pond impounds impacting municipal water quality.  Finally, I estimate the cost of coal ash water pollution in terms of municipal water system fines for water quality violations, finding that the burden of coal ash pollution on municipal water systems in North Carolina is approximately $950,000 from 2005-2017.<br></p> </blockquote>   
    </details>
 
-2. Farm-to-School Programs and Local Agricultural Revenues (with George William Davis). 
+3. Farm-to-School Programs and Local Agricultural Revenues (with George William Davis). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -45,9 +54,7 @@ subtitle:
    <br></p> </blockquote>   
    </details> 
    
-3. Municipal Water Quality and Fetal Health (with Mike Pesko) 
-
-4. School Bus Diesel Emissions and Academic Performance: A National Study 
+4. Municipal Water Quality and Fetal Health (with Mike Pesko) 
 
 5. Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele
 Baggio, and Yasin Civelek)
