@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-1. [School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman and Garth Heutel) **Economics of Education Review**. 2019.
+[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman and Garth Heutel) **Economics of Education Review**. 2019.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
@@ -16,7 +16,7 @@ subtitle:
 ## Working Papers
 ----
 
-1. [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
+[Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -28,7 +28,7 @@ subtitle:
 ## Works in Progress
 ----
 
-1. School Bus Diesel Emissions and Academic Performance: A National Study 
+School Bus Diesel Emissions and Academic Performance: A National Study 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -37,7 +37,7 @@ Prior work shows that air pollution affects cognitive performance, and school bu
    <br></p> </blockquote>   
    </details> 
    
- 2. Coal Combustion Residuals, Water Quality, and Fetal Health.
+ Coal Combustion Residuals, Water Quality, and Fetal Health.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -46,7 +46,7 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <br></p> </blockquote>   
    </details>
 
-3. Farm-to-School Programs and Local Agricultural Revenues (with George William Davis). 
+Farm-to-School Programs and Local Agricultural Revenues (with George William Davis). 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -55,7 +55,7 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <br></p> </blockquote>   
    </details> 
    
-4. Municipal Water Quality and Fetal Health (with Mike Pesko) 
+Municipal Water Quality and Fetal Health (with Mike Pesko) 
 
-5. Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele
+Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele
 Baggio, and Yasin Civelek)
