@@ -46,7 +46,7 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <br></p> </blockquote>   
    </details>
 
-Farm-to-School Programs and Local Agricultural Revenues. 
+[Farm-to-School Programs and Local Agricultural Revenues.](https://wesaustin.github.io/files/Austin_F2S_051519.pdf) 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
