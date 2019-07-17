@@ -7,7 +7,7 @@ subtitle:
 ## In the Media
 ---
 
-- [A Georgia State study says diesel school bus fumes drive down test scores]
+- [A Georgia State study says diesel school bus fumes drive down test scores] 
 (https://www.ajc.com/news/local-education/georgia-schools-opt-for-propane-buses-amid-concern-about-diesel-fumes/cJTrqFHQhkXoNcvxSzLDLL/?utm_source=press-release&utm_medium=research-social&utm_campaign=brain-networks&utm_term=&hootPostID=def3d3217cf8f66130f21536b624c5f7) 
    Ty Tagami - 
    Atlanta Journal Constitution -
