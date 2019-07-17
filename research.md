@@ -56,6 +56,3 @@ School meal provision represents one of the largest food markets in the country.
    </details> 
    
 Municipal Water Quality and Fetal Health (with Mike Pesko) 
-
-Natural Disasters, Mental Health, and Risky Behaviors (with Alberto Chong, Michele
-Baggio, and Yasin Civelek)
