@@ -7,6 +7,12 @@ subtitle:
 ## In the Media
 ---
 
+- [A Georgia State study says diesel school bus fumes drive down test scores]
+(https://www.ajc.com/news/local-education/georgia-schools-opt-for-propane-buses-amid-concern-about-diesel-fumes/cJTrqFHQhkXoNcvxSzLDLL/?utm_source=press-release&utm_medium=research-social&utm_campaign=brain-networks&utm_term=&hootPostID=def3d3217cf8f66130f21536b624c5f7) 
+   Ty Tagami - 
+   Atlanta Journal Constitution -
+   July 12, 2019
+
 - [Fixing school buses is an effective (and cheap) way to improve students’ health and academic performance](https://www.brookings.edu/blog/brown-center-chalkboard/2019/04/21/fixing-school-buses-is-an-effective-and-cheap-way-to-improve-students-health-and-academic-performance/) 
    Wes Austin, Garth Heutel, and Daniel Kreisman - 
    Brookings Institute -
