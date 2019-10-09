@@ -24,9 +24,27 @@ subtitle:
    <br></p> </blockquote>   
    </details>
    
+   
+[An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU PASL early evaluation.pdf)  Sass, Tim R. and Wes Austin. **The National Center on Scaling up Effective Schools Working Paper** September, 2019. 
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
+   <br></p> </blockquote>   
+   </details>   
 
 ## Works in Progress
 ----
+
+ Coal Combustion Residuals, Water Quality, and Fetal Health.
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+Coal ash accounts for one third of industrial water pollution in the United States. No previous study has investigated how this form of water pollution may impact municipal water quality. I link information on coal ash surface water discharges from the Toxic Releases Inventory to three relevant outcomes: surface water quality measurements from the National Water Inventory System, the universe of municipal water quality monitoring tests in North Carolina, and an individual birth data-set with mother identifiers and addresses linked to municipal water service zones. Identification relies on geographic variation in “downstream” status of monitoring sites and municipal water intake locations within small watershed regions. I also incorporate variation in daily water flow, temperature, and the relative quantity of coal ash released to secure causal identification. I find that coal ash releases increase specific conductance in both downstream surface waters and municipal water supplies sourced from these waters. Municipal water systems affected by coal ash tend to have higher levels of disinfection byproducts, inorganic chemicals such as lead, and acidity. The paper concludes with an estimation of the effects of coal ash water pollution on fetal health, exploiting variation in water quality across siblings that may arise from shifting water providers, family moves, and fluctuations in water quality within the same provider.
+   <br></p> </blockquote>   
+   </details>
+
 
 School Bus Diesel Emissions and Academic Performance: A National Study 
 
@@ -37,15 +55,6 @@ Prior work shows that air pollution affects cognitive performance, and school bu
    <br></p> </blockquote>   
    </details> 
    
- Coal Combustion Residuals, Water Quality, and Fetal Health.
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify">
-Coal ash accounts for one third of industrial water pollution in the United States. No previous study has investigated how this form of water pollution may impact municipal water quality. I link information on coal ash surface water discharges from the Toxic Releases Inventory to three relevant outcomes: surface water quality measurements from the National Water Inventory System, the universe of municipal water quality monitoring tests in North Carolina, and an individual birth data-set with mother identifiers and addresses linked to municipal water service zones. Identification relies on geographic variation in “downstream” status of monitoring sites and municipal water intake locations within small watershed regions. I also incorporate variation in daily water flow, temperature, and the relative quantity of coal ash released to secure causal identification. I find that coal ash releases increase specific conductance in both downstream surface waters and municipal water supplies sourced from these waters. Municipal water systems affected by coal ash tend to have higher levels of disinfection byproducts, inorganic chemicals such as lead, and acidity. The paper concludes with an estimation of the effects of coal ash water pollution on fetal health, exploiting variation in water quality across siblings that may arise from shifting water providers, family moves, and fluctuations in water quality within the same provider.
-   <br></p> </blockquote>   
-   </details>
-
 [Farm-to-School Programs and Local Agricultural Revenues.](https://wesaustin.github.io/files/Austin_F2S_051519.pdf) 
 
    <details><summary> Abstract (+) </summary>
