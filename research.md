@@ -16,6 +16,18 @@ subtitle:
 ## Working Papers
 ----
 
+
+ [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.]((https://wesaustin.github.io/files/Austin_JMP_110519.pdf))
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+Coal ash accounts for one third of industrial water pollution in the United States. No previous study has investigated how this form of water pollution may impact municipal water quality or human health. I assess the relationship between coal ash surface water discharges and three relevant outcomes: surface water quality measurements from the Water Quality Portal, municipal system water quality, and an individual birth data-set with mother identifiers and addresses linked to municipal water service zones. Identification relies on geographic variation in downstream status of monitoring sites and municipal water intake locations within small watershed regions. I also incorporate variation arising from plant closures and the relative quantity of coal ash released. I find that coal ash release sites are associated with higher conductivity and pH in both downstream surface waters and municipal water supplies sourced from these waters. Releases of coal ash increase disinfectant byproducts in municipal water systems, and water systems affected by coal ash tend to have more water quality violations for these compounds. I quantify the costs of coal ash water pollution with respect to fetal health and home sales. A newborn potentially exposed to coal ash water pollution is 1 to 1.2 percentage points more likely to be low birthweight compared to an unexposed sibling, although differences are not statistically significant. I conclude by estimating how a legislative act mandating drinking well testing affected home sale prices in regions around coal ash plants. After the act, sale prices of homes within 1 mile of coal ash ponds declined by 12-14%, or over $35,000.
+   <br></p> </blockquote>   
+   </details>
+
+
+
 [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
 
    <details><summary> Abstract (+) </summary>
@@ -53,13 +65,6 @@ School meal provision represents one of the largest food markets in the country.
 ## Works in Progress
 ----
 
- Coal Combustion Residuals, Water Quality, and Fetal Health.
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify">
-Coal ash accounts for one third of industrial water pollution in the United States. No previous study has investigated how this form of water pollution may impact municipal water quality or human health. I assess the relationship between coal ash surface water discharges and three relevant outcomes: surface water quality measurements from the Water Quality Portal, the universe of municipal water quality monitoring tests across five states, and an individual birth data-set with mother identifiers and addresses linked to municipal water service zones. Identification relies on geographic variation in ``downstream'' status of monitoring sites and municipal water intake locations within small watershed regions. I also incorporate variation in daily watershed flow and the relative quantity of coal ash released. I find that coal ash releases increase conductivity and decrease pH in both downstream surface waters and municipal water supplies sourced from these waters. Municipal water systems affected by coal ash tend to have higher levels of disinfectant byproducts, inorganic chemicals such as lead, and acidity. The paper concludes by quantifying the costs of coal ash water pollution. First, I estimate of the effects of coal ash water pollution on fetal health, exploiting variation in water quality across siblings that may arise from coal plant closures and family moves. I find that a newborn potentially exposed to coal ash water pollution is 1-2 percentage points more likely to be low birthweight compared to an unexposed sibling. I conclude by estimating how a legislative act mandating drinking well testing affected home sale prices in regions around coal ash plants. After the act, sale prices of homes within 1 mile of coal ash ponds declined by 12-14%.
-   <br></p> </blockquote>   
-   </details>
-
 Municipal Water Quality and Fetal Health (with Mike Pesko) 
+
+
