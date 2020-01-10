@@ -17,7 +17,7 @@ subtitle:
 ----
 
 
- [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf)
+ [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP_0120.pdf)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
