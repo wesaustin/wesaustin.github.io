@@ -28,7 +28,7 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
 
 
 
-[Where Are Initially Lowperforming Students the Most Likely to Succeed? A Multistate Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (co-authors: David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220 2012. 
+[Where Are Initially Lowperforming Students the Most Likely to Succeed? A Multistate Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (co-authors: David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220 2012.** 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
