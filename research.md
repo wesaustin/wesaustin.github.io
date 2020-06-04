@@ -28,13 +28,21 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
 
 
 
-[Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
+[Where Are Initially Lowperforming Students the Most Likely to Succeed? A Multistate Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (co-authors: David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220 2012. 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
    <br></p> </blockquote>   
    </details>
+   
+ [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (co-authors: Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
+   <br></p> </blockquote>   
+   </details>  
    
 [School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
 
@@ -66,7 +74,4 @@ School meal provision represents one of the largest food markets in the country.
 ----
 
 Municipal Water Quality and Fetal Health (with Mike Pesko).
-
-CALDER Academic Mobility Project (led by a multi-state team).
-
 
