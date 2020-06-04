@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman and Garth Heutel) **Economics of Education Review**. 2019.
+[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (co-authors: Dan Kreisman, Garth Heutel) **Economics of Education Review**. 2019.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
