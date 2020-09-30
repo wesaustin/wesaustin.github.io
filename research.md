@@ -53,15 +53,6 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    <br></p> </blockquote>   
    </details> 
    
-[Farm-to-School Programs and Local Agricultural Revenues.](https://wesaustin.github.io/files/Austin_F2S_051519.pdf) 
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> 
-School meal provision represents one of the largest food markets in the country. In 2015, 42,000 schools serving 23.6 million students engaged in farm-to-school nutrition sourcing policies. Yet, little is known about how much school systems actually source their food locally or about the average relationship between farm-to-school policy adoption and local sourcing of school food. I link 17 years of school district nutrition expenditures across the state of Georgia to a unique commodity-by-county survey of agricultural revenues to assess how much school systems source food from within their county and neighboring counties. I then incorporate four years of survey-based information on district farm-to-school policies to test how farm-to-school programs differentially impact local sourcing patterns. Identification comes from spatiotemporal variation in school district adoption of a farm-to-school policy and variation in expenditures associated with the community eligibility provision of the Healthy Hunger Free Kids Act. Results suggest that as much as $966M of school nutrition expenditures flow to producers within the same county. Of this, perhaps as much as $680M, or 0.6% of all agricultural revenues in the state from 2001-2017, are associated with adoption of farm-to-school policies by school districts. 
-   <br></p> </blockquote>   
-   </details> 
-      
 [An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU_PASL_early_evaluation.pdf)  Sass, Tim R. and Wes Austin. **The National Center on Scaling up Effective Schools: Working Paper.** September, 2019. 
 
    <details><summary> Abstract (+) </summary>
