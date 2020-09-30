@@ -17,7 +17,7 @@ subtitle:
 ----
 
 
-[COVID-19 Mortality and Contemporaneous Air Pollution](https://wesaustin.github.io/files/Air Pollution and COVID Mortality.pdf)
+[COVID-19 Mortality and Contemporaneous Air Pollution](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify">
