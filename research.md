@@ -17,6 +17,14 @@ subtitle:
 ----
 
 
+[COVID-19 Mortality and Contemporaneous Air Pollution](https://wesaustin.github.io/files/Air Pollution and COVID Mortality.pdf)
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+We examine the relationship between contemporaneous fine particulate matter exposure and COVID-19 morbidity and mortality using an instrumental variable approach based on wind direction. Harnessing daily changes in county-level wind direction, we show that arguably exogenous fluctuations in local air quality impact the rate of confirmed cases and deaths from COVID-19. In our preferred high dimensional fixed effects specification with state-level policy and social distancing controls, we find that a one microgram per cubic meter increase in PM 2.5 increases the number of confirmed cases by roughly 2% from the mean case rate in a county. These effects tend to increase in magnitude over longer time horizons, being twice as large over a 3-day period. Meanwhile, a one microgram per cubic meter increase in PM 2.5 increases the same-day death rate by 3% from the mean. Our estimates are robust to a host of sensitivity tests. These results suggest that air pollution plays an important role in mediating the severity of respiratory syndromes such as COVID-19, for which progressive respiratory failure is the primary cause of death, and that policy levers to improve air quality may lead to improvements in COVID-19 outcomes. 
+   <br></p> </blockquote>   
+   </details>
+
  [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf)
 
    <details><summary> Abstract (+) </summary>
