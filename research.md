@@ -16,7 +16,8 @@ subtitle:
 ## Working Papers
 ----
 
- [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
+ [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) (co-authors: Stefano Carattini, John Gomez Mahecha, Mike Pesko) **International Center for Public Policy
+Working Paper 20-16.** 2020
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
