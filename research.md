@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman, Garth Heutel) **Economics of Education Review**. 2019.
+Austin, Wes & Heutel, Garth & Kreisman, Daniel, 2019. [School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) **Economics of Education Review**, Elsevier, vol. 70(C), pages 109-126.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
@@ -16,7 +16,7 @@ subtitle:
 ## Working Papers
 ----
 
- [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) (with Stefano Carattini, John Gomez Mahecha, Mike Pesko) **International Center for Public Policy Working Paper 20-16.** Also distributed as **Grantham Research Institute on Climate Change and the Environment Working Paper 352** 2020.
+Austin W, Carattini S, Gomez Mahecha J and Pesko M (2020) [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf). **Centre for Climate Change Economics and Policy Working Paper 380/Grantham Research Institute on Climate Change and the Environment Working Paper 352.** London: London School of Economics and Political Science. Also released as 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -26,7 +26,7 @@ We examine the relationship between contemporaneous fine particulate matter expo
    </details>
    
    
- [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) 2020.
+ Austin, W (2020). [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -35,7 +35,7 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <br></p> </blockquote>   
    </details>
 
-[School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
+Austin, W (2019). [School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -44,16 +44,16 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    <br></p> </blockquote>   
    </details> 
    
-
-[Where Are Initially Low-performing Students the Most Likely to Succeed? A Multi-state Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (with David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220** 2020. 
+Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2020). [Where Are Initially Low-performing Students the Most Likely to Succeed? A Multi-state Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) **CALDER Working Paper No. 227-0220**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
    <br></p> </blockquote>   
    </details>
-   
- [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
+
+
+Wes Austin, Bingjie Chen, Dan Goldhaber , Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva (2019). [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) **CALDER Working Paper No. 213-0119-1** 2019. 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -61,7 +61,7 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    <br></p> </blockquote>   
    </details>  
    
-[An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU_PASL_early_evaluation.pdf)  Sass, Tim R. and Wes Austin. **The National Center on Scaling up Effective Schools: Working Paper.** September, 2019. 
+Sass, Tim R. and Wes Austin (2019). [An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU_PASL_early_evaluation.pdf) **The National Center on Scaling up Effective Schools: Working Paper.** 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
