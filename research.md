@@ -17,7 +17,7 @@ subtitle:
 ----
 
  [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) (co-authors: Stefano Carattini, John Gomez Mahecha, Mike Pesko) **International Center for Public Policy
-Working Paper 20-16.** 2020
+Working Paper 20-16.** 2020.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -27,7 +27,7 @@ We examine the relationship between contemporaneous fine particulate matter expo
    </details>
    
    
- [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf)
+ [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) 2020.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -36,7 +36,15 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <br></p> </blockquote>   
    </details>
 
+[School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
 
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> 
+Prior work shows that air pollution affects cognitive performance. School bus diesel emissions meaningfully contribute to this exposure for school-age children. I exploit variation in the timing and location of 17,901 school bus diesel engine retrofits or replacements across the US from 2008 to 2016 to test how these bus fleet investments affect air quality and student test scores. I use satellite-based fine particulate matter (PM 2.5) measurements from the Atmospheric Composition Analysis Group to provide the first evidence that these engine retrofits significantly improve surface-level ambient air quality, suggesting potentially large spillover benefits. Retrofitting school buses is also associated with a 0.05-0.06 standard deviation increase in standardized test scores. Moreover, each additional microgram of fine particulate matter per cubic meter is associated with a precisely-estimated decrease in English and math test scores of 0.0056 standard deviations. Finally, I calculate the benefit of these test score and air quality improvements, finding that $170 million spent in grants by the EPA led to approximately $4.75 billion in external benefits. Whether considered from a mortality and clinic cost or test score perspective, the retrofits pass a benefit-cost test. 
+   <br></p> </blockquote>   
+   </details> 
+   
 
 [Where Are Initially Low-performing Students the Most Likely to Succeed? A Multi-state Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (co-authors: David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220** 2020. 
 
@@ -53,15 +61,6 @@ Coal ash accounts for one third of industrial water pollution in the United Stat
    <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
    <br></p> </blockquote>   
    </details>  
-   
-[School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> 
-Prior work shows that air pollution affects cognitive performance. School bus diesel emissions meaningfully contribute to this exposure for school-age children. I exploit variation in the timing and location of 17,901 school bus diesel engine retrofits or replacements across the US from 2008 to 2016 to test how these bus fleet investments affect air quality and student test scores. I use satellite-based fine particulate matter (PM 2.5) measurements from the Atmospheric Composition Analysis Group to provide the first evidence that these engine retrofits significantly improve surface-level ambient air quality, suggesting potentially large spillover benefits. Retrofitting school buses is also associated with a 0.05-0.06 standard deviation increase in standardized test scores. Moreover, each additional microgram of fine particulate matter per cubic meter is associated with a precisely-estimated decrease in English and math test scores of 0.0056 standard deviations. Finally, I calculate the benefit of these test score and air quality improvements, finding that $170 million spent in grants by the EPA led to approximately $4.75 billion in external benefits. Whether considered from a mortality and clinic cost or test score perspective, the retrofits pass a benefit-cost test. 
-   <br></p> </blockquote>   
-   </details> 
    
 [An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU_PASL_early_evaluation.pdf)  Sass, Tim R. and Wes Austin. **The National Center on Scaling up Effective Schools: Working Paper.** September, 2019. 
 
