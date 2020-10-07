@@ -13,6 +13,8 @@ Austin, Wes & Heutel, Garth & Kreisman, Daniel, 2019. [School Bus Emissions, Stu
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
    </details>
 
+</pre>
+</pre>
 ## Working Papers
 ----
 
@@ -27,7 +29,7 @@ We examine the relationship between contemporaneous fine particulate matter expo
    
    
  Austin, W (2020). [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
-
+   
    <details><summary> Abstract (+) </summary>
    <blockquote>
    <p align="justify">
