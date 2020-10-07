@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (co-authors: Dan Kreisman, Garth Heutel) **Economics of Education Review**. 2019.
+[School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) (with Dan Kreisman, Garth Heutel) **Economics of Education Review**. 2019.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
@@ -16,8 +16,7 @@ subtitle:
 ## Working Papers
 ----
 
- [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) (co-authors: Stefano Carattini, John Gomez Mahecha, Mike Pesko) **International Center for Public Policy
-Working Paper 20-16.** 2020.
+ [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) (with Stefano Carattini, John Gomez Mahecha, Mike Pesko) **International Center for Public Policy Working Paper 20-16.** Also distributed as **Grantham Research Institute on Climate Change and the Environment Working Paper 352** 2020.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -46,7 +45,7 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    </details> 
    
 
-[Where Are Initially Low-performing Students the Most Likely to Succeed? A Multi-state Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (co-authors: David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220** 2020. 
+[Where Are Initially Low-performing Students the Most Likely to Succeed? A Multi-state Analysis of Academic Mobility](https://wesaustin.github.io/files/CALDER_academic_mobility.pdf) (with David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Ozek, Eric Parsons, Steven Rivkin, Tim Sass, Katherine Strunk) **CALDER Working Paper No. 227-0220** 2020. 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -54,7 +53,7 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    <br></p> </blockquote>   
    </details>
    
- [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (co-authors: Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
+ [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) (with Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva) **CALDER Working Paper No. 213-0119-1** 2019. 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
