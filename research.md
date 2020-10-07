@@ -56,7 +56,7 @@ Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koed
    </details>
 
 
-Wes Austin, Bingjie Chen, Dan Goldhaber , Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva (2019). [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) **CALDER Working Paper No. 213-0119-1** 2019. 
+Wes Austin, Bingjie Chen, Dan Goldhaber , Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva (2019). [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) **CALDER Working Paper No. 213-0119-1** 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
