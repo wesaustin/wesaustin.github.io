@@ -16,7 +16,7 @@ Austin, Wes & Heutel, Garth & Kreisman, Daniel, 2019. [School Bus Emissions, Stu
 ## Working Papers
 ----
 
-Austin W, Carattini S, Gomez Mahecha J and Pesko M (2020) [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf). **Centre for Climate Change Economics and Policy Working Paper 380/Grantham Research Institute on Climate Change and the Environment Working Paper 352.** London: London School of Economics and Political Science. Also released as 
+Austin W, Carattini S, Gomez Mahecha J and Pesko M (2020) [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf). Centre for Climate Change Economics and Policy Working Paper 380/Grantham Research Institute on Climate Change and the Environment Working Paper 352. London: London School of Economics and Political Science.
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
