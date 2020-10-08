@@ -4,7 +4,15 @@ title: Media
 subtitle: 
 ---
 
-## In the Media
+## COVID-19 
+---
+
+- [Georgia State University research team links air pollution to worse COVID outcomes](https://www.11alive.com/article/news/health/coronavirus/research-links-air-pollution-worse-covid-outcomes/85-117c1533-a906-4cda-b372-a9e3e48fbcf1) 
+   Jonathan Raymond - 
+   11 Alive News -
+   October 1st, 2020
+
+## School Bus Retrofits
 ---
 
 - [A Georgia State study says diesel school bus fumes drive down test scores](https://www.ajc.com/news/local-education/georgia-schools-opt-for-propane-buses-amid-concern-about-diesel-fumes/cJTrqFHQhkXoNcvxSzLDLL/?utm_source=press-release&utm_medium=research-social&utm_campaign=brain-networks&utm_term=&hootPostID=def3d3217cf8f66130f21536b624c5f7) 
