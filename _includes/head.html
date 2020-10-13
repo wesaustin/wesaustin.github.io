@@ -17,6 +17,10 @@
     {% endfor %}
   {% endif %}    
   
+  {% include gtag.html %}
+  {% include gtm_head.html %}
+  {% include google_analytics.html %}
+  
   {% if layout.common-css %}
     {% for css in layout.common-css %}
       <link rel="stylesheet" href="{{ css | prepend: site.baseurl | replace: '//', '/' }}" />
