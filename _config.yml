@@ -24,7 +24,7 @@ description: A virtual home for my research, thoughts, and class links.
 
 # List of links in the navigation bar
 navbar-links:
-  Personal: "personal"
+  #Personal: "personal"
   Research: "research"
   CV: "https://wesaustin.github.io/files/Austin_CV_2023_03.pdf"
   #CV: "https://wesaustin.github.io/files/Austin_CV_2020.pdf"
