@@ -4,7 +4,7 @@ title: Drinking Water Data
 subtitle: 
 ---
 
-I've spent a lot of time working with drinking water data. This page is meant to hopefully save others time as they start to research drinking water or work on water policy. If you're interested in additional data that you don't see here, please feel free to get in touch! 
+I've spent a lot of time working with drinking water data. This page is meant to save others time as they start to research drinking water or work on water policy. If you're interested in additional data that you don't see here, please feel free to [get in touch](mailto:austin.wes@epa.gov)! 
 
 
 ## The Basics
@@ -23,16 +23,22 @@ Service boundaries are the geographic extent of a water system's customer base. 
 
 ## Safe Drinking Water Act Compliance Monitoring Samples
 
-Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples on their website, especially as part of standardized Drinking Water Watch websites. 
+Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples on their website for their department of environmental quality, and many use a Drinking Water Watch websites. I've compiled [a list of these websites if you'd like to check them out.](https://wesaustin.github.io/files/List_of_Website_Links.xlsx) 
 
-You can also find 
-
-As part of the Safe Drinking Water Act, which requires the US EPA to revisit its drinking water standards in a Six Year Review process, EPA collects some of these SDWA compliance samples and posts them after significant data quality assurance and control protocols. Here are links to some of the prior Six Year Review datasets:
+There are additional datasets that cover some or all of the country. 
+- [Six Year Review](https://www.epa.gov/dwsixyearreview): As part of the Safe Drinking Water Act, which requires the US EPA to regularly revisit and reconsider its drinking water standards, EPA collects SDWA compliance samples through an information collection request of primacy agencies (i.e., states). After significant data quality assurance and control protocols, this data is posted publicly. 
+  - [Six Year Review 2](https://www.epa.gov/dwsixyearreview/six-year-review-2-contaminant-occurrence-data-1998-2005): SYR2 includes samples from 1998 to 2005. 
+  - [Six Year Review 3](https://www.epa.gov/dwsixyearreview/contaminant-occurrence-and-related-data-six-year-review-drinking-water-standards): SYR3 includes samples from 2006-2011. 
+  - [Six Year Review 4](https://www.epa.gov/dwsixyearreview/six-year-review-4-drinking-water-standards-information-collection-request): The full SYR4 dataset is not yet available, however you can download a preliminary version of the data covering certain disinfectant byproduct and bacteriological samples at the above link. 
+- [The National Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/): The CDC collects information on 12 drinking water contaminants of concern from 28 states over 2001-2021. The tracking tool allows easy download after customizing your data query. 
+- [Environmental Working Group Tap Water Databse](https://www.ewg.org/tapwater/): Another resource for finding information on drinking water quality.   
 
 
 
 ## Private Domestic Wells 
 
+Private domestic wells are not regulated under the Safe Drinking Water Act, and so they're an important potential area of study. First, however, you have to know where the PDWs are. The following study can help in this regard, and you can find [the underlying data for the project here](https://epa.maps.arcgis.com/apps/webappviewer/index.html?id=7ffe9ca0a2044e9c8e2b8f256c99525f). 
+- Murray, A., Hall, A., Weaver, J., and Kremer, F.. 2021. " Methods for Estimating Locations of Housing Units Served by Private Domestic Wells in the United States Applied to 2010." Journal of the American Water Resources Association 57( 5): 828– 843. https://doi.org/10.1111/1752-1688.12937.
 
 
 ## Other Research Data 
@@ -43,6 +49,6 @@ Here are links to publicly-available datasets produced by researchers:
 
 
 ## Disclaimer: 
-This page links to publicly-available data; it is not an endorsement of any product or advocacy for any organization. 
+This page links to publicly-available data. It is not an endorsement of any product, it does not advocacate for any organization, and it provides no warranty for the suitability of use of the above information for any specific purpose. 
 
 
