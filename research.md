@@ -8,7 +8,7 @@ subtitle:
 ----
 
 
-Austin W, Carattini S, Gomez-Mahecha J and Pesko M (2023) [The effects of contemporaneous air pollution on COVID-19 morbidity and mortality.](https://www.sciencedirect.com/science/article/pii/S0095069623000335) **Journal of Environmental Economics and Management.** [See prior working version.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
+Austin W, Carattini S, Gomez-Mahecha J and Pesko M (2023) [The effects of contemporaneous air pollution on COVID-19 morbidity and mortality.](https://www.sciencedirect.com/science/article/pii/S0095069623000335) **Journal of Environmental Economics and Management.** [See prior working paper.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
