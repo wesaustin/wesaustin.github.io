@@ -9,7 +9,7 @@ I've spent a lot of time working with drinking water data. This page is meant to
 
 ## The Basics: SDWIS
 
-- Safe Drinking Water Information System: The go-to data source for information on drinking water systems in the US. For all active water systems, it includes information on their primary sourcewater characteristics, number of people served, number of service connections, type of system for regulatory purposes, and of course information on all violations of the Safe Drinking Water Act.     
+The Safe Drinking Water Information System (SDWIS) is the go-to data source for information on drinking water systems in the US. For all active water systems, it includes information on their primary sourcewater characteristics, number of people served, number of service connections, type of system for regulatory purposes, and of course information on all violations of the Safe Drinking Water Act.     
   - [Version 1](https://sdwis.epa.gov/ords/sfdw_pub/r/sfdw/sdwis_fed_reports_public/200) 
   - [Version 2](https://obipublic.epa.gov/analytics/saw.dll?PortalPages&PortalPath=/shared/SFDW/_portal/Public&Page=Summary)
 
