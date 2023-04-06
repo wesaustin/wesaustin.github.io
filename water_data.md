@@ -7,7 +7,7 @@ subtitle:
 I've spent a lot of time working with drinking water data. This page is meant to save others time as they start to research drinking water or work on water policy. If you're interested in additional data that you don't see here, please feel free to [get in touch](mailto:austin.wes@epa.gov)! 
 
 
-## The Basics
+## The Basics: SDWIS
 
 - Safe Drinking Water Information System: The go-to data source for information on drinking water systems in the US. For all active water systems, it includes information on their primary sourcewater characteristics, number of people served, number of service connections, type of system for regulatory purposes, and of course information on all violations of the Safe Drinking Water Act.     
   - [Version 1](https://sdwis.epa.gov/ords/sfdw_pub/r/sfdw/sdwis_fed_reports_public/200) 
@@ -25,7 +25,7 @@ Service boundaries are the geographic extent of a water system's customer base. 
 
 Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples on their website for their department of environmental quality, and many use a Drinking Water Watch websites. I've compiled [a list of these websites if you'd like to check them out.](https://wesaustin.github.io/files/List_of_Website_Links.xlsx) 
 
-There are additional datasets that cover some or all of the country. 
+There are additional datasets that cover some or all of the US. 
 - [Six Year Review](https://www.epa.gov/dwsixyearreview): As part of the Safe Drinking Water Act, which requires the US EPA to regularly revisit and reconsider its drinking water standards, EPA collects SDWA compliance samples through an information collection request of primacy agencies (i.e., states). After significant data quality assurance and control protocols, this data is posted publicly. 
   - [Six Year Review 2](https://www.epa.gov/dwsixyearreview/six-year-review-2-contaminant-occurrence-data-1998-2005): SYR2 includes samples from 1998 to 2005. 
   - [Six Year Review 3](https://www.epa.gov/dwsixyearreview/contaminant-occurrence-and-related-data-six-year-review-drinking-water-standards): SYR3 includes samples from 2006-2011. 
