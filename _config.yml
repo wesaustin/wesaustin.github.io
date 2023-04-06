@@ -25,9 +25,9 @@ description: A virtual home for my research, thoughts, and class links.
 # List of links in the navigation bar
 navbar-links:
   #Personal: "personal"
-  #Drinking Water Data: "dwdata"
   Research: "research"
   CV: "https://wesaustin.github.io/files/Austin_CV_2023_03.pdf"
+  Drinking Water Data: "water_data"
   #CV: "https://wesaustin.github.io/files/Austin_CV_2020.pdf"
   #CV: "https://wes-austin.com/files/Austin_CV_031919.pdf"
   References: "references"
@@ -110,7 +110,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "http://www.wesaustin.com"
+url-pretty: "http://www.wes-austin.com"
 #url-pretty: "MyWebsite.com"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
