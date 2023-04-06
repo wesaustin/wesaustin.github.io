@@ -7,6 +7,16 @@ subtitle:
 ## Publications
 ----
 
+
+Austin W, Carattini S, Gomez-Mahecha J and Pesko M (2023) [The effects of contemporaneous air pollution on COVID-19 morbidity and mortality.](https://www.sciencedirect.com/science/article/pii/S0095069623000335) **Journal of Environmental Economics and Management.** [See prior working version.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+We examine the relationship between contemporaneous fine particulate matter exposure and COVID-19 morbidity and mortality using an instrumental variable approach. Harnessing daily changes in county-level wind direction, we show that arguably exogenous fluctuations in local air quality impact the incidence of confirmed COVID-19 cases and deaths. We find that a one &#956g/m increase in PM 2.5, or 15% of the average PM 2.5 concentration in a county, increases the number of same-day confirmed cases by 1.8% from the mean case incidence in a county. A one &#956g/m increase in PM 2.5 increases the same-day death rate by just over 4% from the mean. These effects tend to increase in magnitude over longer time horizons and are robust to a host of sensitivity tests. When analyzing potential mechanisms, we also demonstrate that an additional unit of PM 2.5 increases COVID-19-related hospitalizations by 0.8% and use of intensive care units by 0.5% on the same day. Using individual case records, we also show that higher PM 2.5 exposure at the time of case confirmation increases risk of later mechanical ventilation and mortality. These results suggest that air pollution plays an important role in mediating the severity of respiratory syndromes such as COVID-19.
+   <br></p> </blockquote>   
+   </details>
+
 Austin, Wes & Heutel, Garth & Kreisman, Daniel, 2019. [School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) **Economics of Education Review**, Elsevier, vol. 70(C), pages 109-126.
 
    <details><summary> Abstract (+) </summary>
@@ -15,19 +25,9 @@ Austin, Wes & Heutel, Garth & Kreisman, Daniel, 2019. [School Bus Emissions, Stu
 
 
 ## Working Papers
-----
-
-Austin W, Carattini S, Gomez Mahecha J and Pesko M (2020) [COVID-19 Mortality and Contemporaneous Air Pollution.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf) **Grantham Research Institute on Climate Change and the Environment Working Paper 352.**
-
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify">
-We examine the relationship between contemporaneous fine particulate matter exposure and COVID-19 morbidity and mortality using an instrumental variable approach based on wind direction. Harnessing daily changes in county-level wind direction, we show that arguably exogenous fluctuations in local air quality impact the rate of confirmed cases and deaths from COVID-19. In our preferred high dimensional fixed effects specification with state-level policy and social distancing controls, we find that a one µg/m3 increase in PM 2.5 increases the number of confirmed cases by roughly 2% from the mean case rate in a county. These effects tend to increase in magnitude over longer time horizons, being twice as large over a 3-day period. Meanwhile, a one µg/m3 increase in PM 2.5 increases the same-day death rate by 3% from the mean. Our estimates are robust to a host of sensitivity tests. These results suggest that air pollution plays an important role in mediating the severity of respiratory syndromes such as COVID-19, for which progressive respiratory failure is the primary cause of death, and that policy levers to improve air quality may lead to improvements in COVID-19 outcomes. 
-   <br></p> </blockquote>   
-   </details>
+----   
    
-   
- Austin, W (2020). [Throwing the Baby Out with the Ashwater? Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
+ Austin, W (2020). [Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
    
    <details><summary> Abstract (+) </summary>
    <blockquote>
