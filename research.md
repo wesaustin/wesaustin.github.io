@@ -75,6 +75,4 @@ Sass, Tim R. and Wes Austin (2019). [An Analysis of the Effects of Implementing 
 ## Works in Progress
 ----
 
-Austin., W., Pan, S., Parthum, B. (2022) Extreme Precipitation and Drinking Water Quality.
-Austin., W., Lau, P., Wheeler, W. (2022) Sampling Incentives under the Lead and Copper Rule.
-
+Austin., W., Pan, S., Parthum, B. (2023) Extreme Precipitation and Drinking Water Quality.
