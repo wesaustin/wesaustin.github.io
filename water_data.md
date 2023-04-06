@@ -50,6 +50,6 @@ Here are links to publicly-available datasets produced by researchers:
 
 
 ## Disclaimer: 
-This page links to publicly-available data. It is not an endorsement of any product, it does not advocacate for any organization, and it provides no warranty for the suitability of use of the above information for any specific purpose. 
+This page links to publicly-available data. It is not an endorsement of any product, it does not advocate for any organization, and it provides no warranty for the suitability of use of the above information for any specific purpose. 
 
 
