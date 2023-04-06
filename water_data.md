@@ -23,7 +23,7 @@ Service boundaries are the geographic extent of a water system's customer base. 
 
 ## Safe Drinking Water Act Compliance Monitoring Samples
 
-Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples on their website for their department of environmental quality, and many use a Drinking Water Watch websites. I've compiled [a list of these websites if you'd like to check them out.](https://wesaustin.github.io/files/List_of_Website_Links.xlsx) 
+Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples publicly, and many use a Drinking Water Watch website. I've compiled [a list of these websites if you'd like to check them out.](https://wesaustin.github.io/files/List_of_Website_Links.xlsx) 
 
 There are additional datasets that cover some or all of the US. 
 - [Six Year Review](https://www.epa.gov/dwsixyearreview): As part of the Safe Drinking Water Act, which requires the US EPA to regularly revisit and reconsider its drinking water standards, EPA collects SDWA compliance samples through an information collection request of primacy agencies (i.e., states). After significant data quality assurance and control protocols, this data is posted publicly. 
@@ -46,6 +46,7 @@ Private domestic wells are not regulated under the Safe Drinking Water Act, and 
 Here are links to publicly-available datasets produced by researchers:
 - Allaire, Maura, 2018, "Health-Based Violations of the Safe Drinking Water Act, 1982-2015", https://doi.org/10.7910/DVN/IFV6SQ, Harvard Dataverse, V1, UNF:6:vaLp8XxepUoSL4lAJyeu4Q== [fileUNF] 
 - Allaire, Maura, 2019, "Bottled Water Sales and Water Quality Violations, 2006-2015", https://doi.org/10.7910/DVN/HDYIRY, Harvard Dataverse, V1, UNF:6:hEbKPWtT6uqIZ+75fd/MkQ== [fileUNF]
+- Hughes, Sara; Kirchhoff, Christine; Conedera, Katelynn; Friedman, Mirit, 2023, "The Municipal Drinking Water Database, 2000-2018 [United States]", https://doi.org/10.7910/DVN/DFB6NG, Harvard Dataverse, V1, UNF:6:vyfBObHyAjqPejesGH3sEA== [fileUNF]
 
 
 ## Disclaimer: 
