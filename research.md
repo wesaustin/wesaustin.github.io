@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2023). [Academic mobility in U.S. public schools: Evidence from nearly 3 million students]([https://wesaustin.github.io/files/CALDER_academic_mobility.pdf](https://www.sciencedirect.com/science/article/pii/S0047272723001986)) **Journal of Public Economics, Volume 228-105016**
+Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2023). [Academic mobility in U.S. public schools: Evidence from nearly 3 million students](https://www.sciencedirect.com/science/article/pii/S0047272723001986) **Journal of Public Economics, Volume 228-105016**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
