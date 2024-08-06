@@ -7,6 +7,15 @@ subtitle:
 ## Publications
 ----
 
+Wes Austin and Rosie Mueller (2024). Forever Chemicals: Challenges and Opportunities for Researchers. forthcoming at **Review of Environmental Economics and Policy.**
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> There is substantial academic, regulatory, and public attention on per- and polyfluoroalkyl substances (PFAS), often dubbed ``forever chemicals'' due to their resistance to degradation. PFAS are used in a wide variety of production processes and consumer products, are found in food and drinking water sources, and are subsequently ubiquitously present in samples of human blood, breast milk, and environmental media collected in the United States and globally. Exposure to PFAS has been linked to a litany of health effects including kidney and testicular cancer, immune system hypersensitivity and suppression, endocrine disruption, and adverse reproductive outcomes such as decreased fertility and lower birth weights. However, certain health endpoints are understudied in human populations and many questions remain unanswered, with  notable gaps in the literature regarding exposure pathways, health burdens, replacement PFAS, and disparate impacts. Regulation of PFAS is just beginning for many environmental media, and research opportunities described in this paper can potentially inform the development of new policies to address the PFAS problem. 
+   <br></p> </blockquote>   
+   </details>
+
+
 Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2023). [Academic mobility in U.S. public schools: Evidence from nearly 3 million students.](https://www.sciencedirect.com/science/article/pii/S0047272723001986) **Journal of Public Economics, Volume 228-105016**
 
    <details><summary> Abstract (+) </summary>
@@ -43,8 +52,6 @@ Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Hea
 Coal ash accounts for one third of industrial water pollution in the United States. I assess the relationship between coal ash surface water discharges and three relevant outcomes: surface water quality, municipal system water quality, and fetal health indicators from a birth certificate database in North Carolina. Identification relies on geographic variation in downstream status of monitoring sites and municipal water intake locations, plant closures or conversions, and the relative quantity of coal ash released over time. I find that coal ash releases are associated with higher conductivity and pH in both downstream surface waters and municipal water supplies sourced from these waters. Water systems affected by coal ash tend to have more Safe Drinking Water Act violations for disinfectant byproducts, inorganic chemicals, and health-based violations. I quantify the costs of coal ash water pollution with respect to fetal health and home sales. Exploiting variation arising from mothers' moves, I find that a newborn potentially exposed to coal ash water pollution is 1.7 percentage points more likely to have low birthweight compared to an unexposed sibling. I conclude by estimating how a legislative act mandating drinking well testing affected home sale prices in regions around coal ash plants. After the act, sale prices of homes within 1 mile of coal ash ponds declined by 12-14%, or over $37,000.
    <br></p> </blockquote>   
    </details>
-
-
 
 Austin, W (2019). [School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
 
