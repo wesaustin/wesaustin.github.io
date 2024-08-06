@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-Wes Austin and Rosie Mueller (2024). Forever Chemicals: Challenges and Opportunities for Researchers. forthcoming at **Review of Environmental Economics and Policy.**
+Wes Austin and Rosie Mueller (2024). Forever Chemicals: Challenges and Opportunities for Researchers. **Review of Environmental Economics and Policy.**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
