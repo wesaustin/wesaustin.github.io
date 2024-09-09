@@ -43,6 +43,15 @@ Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Hea
 
 ## Working Papers
 ----   
+
+Wes Austin, Tina Bardot, and AR el-Khattabi. (2024) Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality. 
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+Service area boundaries are the geographic delineation of a drinking water system's customer base. A lack of precise service area boundaries may introduce errors in how measures of water quality are geospatially assigned in academic or regulatory work, potentially hindering our ability to locate and accurately characterize environmental justice concerns in drinking water. Many advances have been made in the collection and modelling of service areas, but there has been minimal systematic testing of the implications of employing distinct service area boundary types in the published literature. While it is generally understood that more accurate service area assignment methods will improve the precision of environmental justice analyses of drinking water quality, it is unclear how various assignment methods would impact the conclusions of empirical analyses or the potential magnitude of bias. This paper aims to fill this gap by summarizing a set of relatively novel environmental justice indicators in drinking water across all known service area assignment methods. We explore drinking water quality measures for arsenic, bacterial detection, disinfection byproduct formation, lead, nitrates, PFAS, and health-based violations of the Safe Drinking Water Act. We summarize each drinking water quality metric across service area assignment methods including the use of county served, zip codes served, the EPIC/SimpleLab dataset, boundaries created by the U.S. Geologic Survey, and a national data layer produced by EPA's Office of Research and Development. We find disparities in drinking water quality with respect to every drinking water quality metric included in this analysis, and we find that conclusions regarding the presence of a disparity depend on the service area boundary selected for at least one group of environmental justice concern for each drinking water quality measure. This paper helps to motivate the importance of collecting service areas and producing as well as maintaining a high-quality nationally consistent geodatabase of drinking water system service areas. 
+   <br></p> </blockquote>   
+   </details>
    
  Austin, W (2020). [Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
    
