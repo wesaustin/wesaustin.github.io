@@ -53,7 +53,7 @@ Service area boundaries are the geographic delineation of a drinking water syste
    <br></p> </blockquote>   
    </details>
    
- Austin, W (2020). [Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf) **Job Market Paper**
+ Austin, W (2020). [Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf). 
    
    <details><summary> Abstract (+) </summary>
    <blockquote>
