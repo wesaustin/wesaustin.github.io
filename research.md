@@ -44,7 +44,7 @@ Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Hea
 ## Working Papers
 ----   
 
-Wes Austin, Tina Bardot, and AR el-Khattabi. (2024) Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality. 
+Wes Austin, Tina Bardot, and AR el-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-09/2024-07.pdf) **NCEE Working Paper Series**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
