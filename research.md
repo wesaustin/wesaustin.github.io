@@ -44,7 +44,16 @@ Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Hea
 ## Working Papers
 ----   
 
-Wes Austin, Tina Bardot, and AR el-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-09/2024-07.pdf) **NCEE Working Paper Series**
+Wes Austin, Isis Pan, and Bryan Parthum. (2024) [When it Rains, it Pours: Severe Weather Events, Flooding, and Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-12/2024-12.pdf) **NCEE Working Paper Series**
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify">
+Climate change will alter the spatial distribution and intensity of precipitation. While more extreme precipitation can be costly for many reasons, a relatively under-explored burden may come in the form of disruptions to drinking water quality. These disruptions are caused by changes to the physical and chemical properties of water, the mobilization of pollution through runoff, accidental spills of hazardous substances, and water infrastructure failure, all of which are impacted by heavy precipitation events and flooding. To test how extreme precipitation impacts drinking water quality, we developed a dataset of drinking water samples spanning two decades and covering a service population of 290 million across the United States. We combine these drinking water records with daily weather information and extreme weather event records. Our results suggest that heavier precipitation is associated with greater concentrations of disinfectant byproducts and increased detection of total coliform and E. Coli bacteria. We identify the disproportionate impacts of these drinking water quality disruptions across geographic regions, water system types, and socioeconomic groups. Finally, we estimate that monetary damages associated with extreme-precipitation-induced drinking water quality disruptions are over $1 billion annually based on altered bottled water purchases, cooking and dining practices, travel needs, work or school absences, and preterm birth newborns.
+   <br></p> </blockquote>   
+   </details>
+
+Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-09/2024-07.pdf) **NCEE Working Paper Series**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
