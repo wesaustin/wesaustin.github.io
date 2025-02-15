@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-Wes Austin and Rosie Mueller (2024). Forever Chemicals: Challenges and Opportunities for Researchers. **Review of Environmental Economics and Policy.**
+Wes Austin and Rosie Mueller (2024). [Forever Chemicals: Challenges and Opportunities for Researchers.](https://www.journals.uchicago.edu/doi/abs/10.1086/732188) **Review of Environmental Economics and Policy.**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -53,7 +53,7 @@ Climate change will alter the spatial distribution and intensity of precipitatio
    <br></p> </blockquote>   
    </details>
 
-Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-09/2024-07.pdf) **NCEE Working Paper Series**
+Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://wesaustin.github.io/files/NCEE WP Service Area Boundaries and DW Quality.pdf) **NCEE Working Paper Series**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
