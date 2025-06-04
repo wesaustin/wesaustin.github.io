@@ -7,7 +7,7 @@ subtitle:
 ## Publications
 ----
 
-Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). Characterizing Community Water Systems Exposed to Wildfire in the Western U.S. **Science of the Total Environment** 
+Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). Characterizing Community Water Systems Exposed to Wildfire in the Western U.S. **Science of the Total Environment.** 
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
