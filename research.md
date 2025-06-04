@@ -7,6 +7,14 @@ subtitle:
 ## Publications
 ----
 
+Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). Characterizing Community Water Systems Exposed to Wildfire in the Western U.S. **Science of the Total Environment** 
+
+   <details><summary> Abstract (+) </summary>
+   <blockquote>
+   <p align="justify"> Wildfires have increased in size and severity and so has concern over how wildfires impact water security. The current literature suggests that wildfires may negatively impact surface water quality and community drinking water systems dependent on surface water as their drinking water source. Yet few studies consider the implications for the populations served by these downstream community drinking water systems. This research contributes to a more comprehensive understanding of water security by characterizing community water systems (CWSs) historically exposed to wildfire as well as their future potential wildfire risk in the western United States. Of the 9,176 CWSs, which supply approximately 72 million people in the western United States with drinking water, we find that 64% of all CWSs (serving approximately 60 million people) in our sample experienced at least one upstream wildfire between 1984 and 2022. We also find that CWSs that rely on surface water sources and serve large populations are more likely to have been exposed to upstream wildfires. Lastly, using CWS service area boundaries, we find that upstream wildfire exposure and landscape-based wildfire hazard potential are correlated with demographic characteristics such as lower education and household income.
+   <br></p> </blockquote>   
+   </details>
+
 Wes Austin and Rosie Mueller (2024). [Forever Chemicals: Challenges and Opportunities for Researchers.](https://www.journals.uchicago.edu/doi/abs/10.1086/732188) **Review of Environmental Economics and Policy.**
 
    <details><summary> Abstract (+) </summary>
