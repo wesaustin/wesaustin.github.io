@@ -52,6 +52,8 @@ Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Hea
 ## Working Papers
 ----   
 
+Petrusevich, M., Austin, W., Zheng, J., Evans, M., Ma, L., & Olmstead, S. (2025). Impacts of the SDWA Arsenic Rule on Arsenic Occurrence in U.S. Drinking Water.
+
 Wes Austin, Isis Pan, and Bryan Parthum. (2024) [When it Rains, it Pours: Severe Weather Events, Flooding, and Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-12/2024-12.pdf) **NCEE Working Paper Series**
 
    <details><summary> Abstract (+) </summary>
