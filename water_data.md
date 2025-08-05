@@ -46,9 +46,9 @@ Private domestic wells are not regulated under the Safe Drinking Water Act, and 
 ## Other Research Data 
 
 Here are links to publicly-available datasets produced by researchers:
-- Allaire, Maura, 2018, "Health-Based Violations of the Safe Drinking Water Act, 1982-2015", [https://doi.org/10.7910/DVN/IFV6SQ](https://doi.org/10.7910/DVN/IFV6SQ), Harvard Dataverse, V1, UNF:6:vaLp8XxepUoSL4lAJyeu4Q== [fileUNF] 
-- Allaire, Maura, 2019, "Bottled Water Sales and Water Quality Violations, 2006-2015", [https://doi.org/10.7910/DVN/HDYIRY](https://doi.org/10.7910/DVN/HDYIRY), Harvard Dataverse, V1, UNF:6:hEbKPWtT6uqIZ+75fd/MkQ== [fileUNF]
-- Hughes, Sara; Kirchhoff, Christine; Conedera, Katelynn; Friedman, Mirit, 2023, "The Municipal Drinking Water Database, 2000-2018 [United States]", [https://doi.org/10.7910/DVN/DFB6NG](https://doi.org/10.7910/DVN/DFB6NG), Harvard Dataverse, V1, UNF:6:vyfBObHyAjqPejesGH3sEA== [fileUNF]
+- Allaire, Maura, 2018, "Health-Based Violations of the Safe Drinking Water Act, 1982-2015", [https://doi.org/10.7910/DVN/IFV6SQ](https://doi.org/10.7910/DVN/IFV6SQ), Harvard Dataverse, V1.
+- Allaire, Maura, 2019, "Bottled Water Sales and Water Quality Violations, 2006-2015", [https://doi.org/10.7910/DVN/HDYIRY](https://doi.org/10.7910/DVN/HDYIRY), Harvard Dataverse, V1.
+- Hughes, Sara; Kirchhoff, Christine; Conedera, Katelynn; Friedman, Mirit, 2023, "The Municipal Drinking Water Database, 2000-2018 [United States]", [https://doi.org/10.7910/DVN/DFB6NG](https://doi.org/10.7910/DVN/DFB6NG), Harvard Dataverse, V1.
 
 
 ## Disclaimer: 
