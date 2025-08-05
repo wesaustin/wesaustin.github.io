@@ -4,19 +4,21 @@ title: Drinking Water
 subtitle: Data Guide 
 ---
 
-I've spent a lot of time working with drinking water data. This page is meant to save others time as they start to research drinking water or work on water policy. If you're brand new, I would recommend starting with EPA's [drinking water data clearinghouse](https://www.epa.gov/DWdata). The following are data resources frequently come up in my work, but please feel free to [get in touch](mailto:austin.wes@epa.gov) if you have questions or need help finding drinking water data. 
+I've spent a lot of time working with drinking water data. This page is meant to save others time as they start to research drinking water or work on water policy. If you're brand new, I would recommend starting with EPA's [drinking water data clearinghouse](https://www.epa.gov/DWdata). 
+
+The following data resources frequently come up in my work, but please feel free to [get in touch](mailto:austin.wes@epa.gov) if you have questions or need help finding drinking water data. 
 
 
 ## The Basics: SDWIS
 
-The Safe Drinking Water Information System (SDWIS) is the go-to data source for information on drinking water systems in the US. For all active water systems, it includes information on their primary sourcewater characteristics, number of people served, number of service connections, type of system for regulatory purposes, and of course information on all violations of the Safe Drinking Water Act.     
+The Safe Drinking Water Information System (SDWIS) is the go-to data source for information on drinking water systems in the US. For all public water systems, it includes information on their primary source water characteristics, number of people served, number of service connections, type of system for regulatory purposes, and information on all violations of the Safe Drinking Water Act.     
   - [Version 1](https://sdwis.epa.gov/ords/sfdw_pub/r/sfdw/sdwis_fed_reports_public/200) 
   - [Version 2](https://obipublic.epa.gov/analytics/saw.dll?PortalPages&PortalPath=/shared/SFDW/_portal/Public&Page=Summary)
 
 
 ## Service Boundaries
 
-Service boundaries are the geographic extent of a water system's customer base. They have a ton of analytic uses. Many states post their service boundaries publicly, and these have been compiled and combined with modeled boundaries in the following EPA, SimpleLab/EPIC, and USGS datasets.
+Service boundaries are the geographic extent of a water system's customer base. They have a ton of analytic uses. Many states post their service boundaries online, and these have been compiled and combined with modeled boundaries in the following EPA, SimpleLab/EPIC, and USGS datasets.
 - EPA (2024). Community Water System Service Area Boundaries. [https://www.epa.gov/ground-water-and-drinking-water/community-water-system-service-area-boundaries?tab=resources](https://www.epa.gov/ground-water-and-drinking-water/community-water-system-service-area-boundaries?tab=resources)
 - SimpleLab, EPIC (2022). U.S. Community Water Systems Service Boundaries, v3.0.0, HydroShare, [http://www.hydroshare.org/resource/9ebc0a0b43b843b9835830ffffdd971e](http://www.hydroshare.org/resource/9ebc0a0b43b843b9835830ffffdd971e)
 - Buchwald, C.A., Houston, N.A., Stewart, J.S., York, B.C., and Valseth, K.J., 2022, Public-supply water service areas within the conterminous United States, 2017, U.S. Geological Survey data release: [https://doi.org/10.5066/P9I22Z24.](https://doi.org/10.5066/P9I22Z24.) 
@@ -24,7 +26,7 @@ Service boundaries are the geographic extent of a water system's customer base. 
 
 ## Safe Drinking Water Act Compliance Monitoring Samples
 
-Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples publicly, and many use a Drinking Water Watch website. EPA has compiled [a list of these state websites if you'd like to check them out.](https://www.epa.gov/DWdata/primacy-agency-drinking-water-data) 
+Drinking water systems collect samples of raw and finished drinking water for hundreds of water quality parameters. Some states post these samples publicly, and many use a Drinking Water Watch or Drinking Water Viewer website. EPA has compiled [a list of these state websites if you'd like to check them out.](https://www.epa.gov/DWdata/primacy-agency-drinking-water-data) 
 
 EPA has also assembled drinking water sampling data as part of the [National Contaminant Occurrence Database](https://www.epa.gov/sdwa/national-contaminant-occurrence-database-ncod). 
 There are additional datasets that cover some or all of the US. 
