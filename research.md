@@ -8,29 +8,44 @@ subtitle:
 ----
 
 
-
-
-Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). [Characterizing Community Water Systems Exposed to Wildfire in the Western U.S.](https://doi.org/10.1016/j.scitotenv.2025.179814) **Science of the Total Environment.** 
+Steven G. Rivkin, Wes Austin, Bengie Chen, Dan Goldhaber, Eric A. Hanushek, Kris Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Tim Sass, Mavzuna Tureava. (2025) [State differences in pathways to school leadership and in achievement growth](https://doi.org/10.1016/j.econedurev.2025.102699). **Economics of Education Review.** [Link to prior working paper](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school).
 
 <details><summary> Abstract (+) </summary>
   <blockquote style="margin-left: 20px;">
     <p align="justify"> 
-   <p align="justify"> Wildfires have increased in size and severity and so has concern over how wildfires impact water security. The current literature suggests that wildfires may negatively impact surface water quality and community drinking water systems dependent on surface water as their drinking water source. Yet few studies consider the implications for the populations served by these downstream community drinking water systems. This research contributes to a more comprehensive understanding of water security by characterizing community water systems (CWSs) historically exposed to wildfire as well as their future potential wildfire risk in the western United States. Of the 9,176 CWSs, which supply approximately 72 million people in the western United States with drinking water, we find that 64% of all CWSs (serving approximately 60 million people) in our sample experienced at least one upstream wildfire between 1984 and 2022. We also find that CWSs that rely on surface water sources and serve large populations are more likely to have been exposed to upstream wildfires. Lastly, using CWS service area boundaries, we find that upstream wildfire exposure and landscape-based wildfire hazard potential are correlated with demographic characteristics such as lower education and household income.
+States regulate entry into principalships, including requirements for prior experience as a teacher or assistant principal, to guard against poor school leadership and bad outcomes for students. Such requirements might be expected to reduce the variation in principal quality and achievement growth by excluding applicants in the lower tail of the effectiveness distribution, but differences in state standardized tests, family circumstances, state economic conditions, and myriad state and local policies and conditions prevent direct analyses of their effects on principal quality. To learn more about their likely impacts, we describe pathways to the principalship in terms of prior teaching experience, and assistant principal and principal experience, across six states with substantial differences in context, regulations, and student populations. There are sizeable differences across states in the shares of principals without prior experiences as a teacher or assistant principal but only modest differences in estimates of the variance of principal effectiveness, which suggests that prior experience requirements create barriers to becoming a principal and do not succeed in raising the principal effectiveness floor. Schools serving more economically disadvantaged students and Black students are more likely to have principals without prior experience as a teacher, but the findings suggest that stricter prior experience requirements may not benefit—or could potentially even harm—students in schools that have more difficulty attracting and retaining principals.
       <br>
     </p> 
   </blockquote>   
 </details>
+
+
+&nbsp;
+
+Charlotte Wachter, Jordan Suter, Jesse Burkhardt, Wes Austin, Beth Haley, Siyu Pan, & Sonja Kolstoe. (2025). [Characterizing Community Water Systems Exposed to Wildfire in the Western U.S.](https://doi.org/10.1016/j.scitotenv.2025.179814) **Science of the Total Environment.** 
+<details><summary> Abstract (+) </summary>
+  <blockquote style="margin-left: 20px;">
+    <p align="justify"> 
+Wildfires have increased in size and severity and so has concern over how wildfires impact water security. The current literature suggests that wildfires may negatively impact surface water quality and community drinking water systems dependent on surface water as their drinking water source. Yet few studies consider the implications for the populations served by these downstream community drinking water systems. This research contributes to a more comprehensive understanding of water security by characterizing community water systems (CWSs) historically exposed to wildfire as well as their future potential wildfire risk in the western United States. Of the 9,176 CWSs, which supply approximately 72 million people in the western United States with drinking water, we find that 64% of all CWSs (serving approximately 60 million people) in our sample experienced at least one upstream wildfire between 1984 and 2022. We also find that CWSs that rely on surface water sources and serve large populations are more likely to have been exposed to upstream wildfires. Lastly, using CWS service area boundaries, we find that upstream wildfire exposure and landscape-based wildfire hazard potential are correlated with demographic characteristics such as lower education and household income.
+      <br>
+    </p> 
+  </blockquote>   
+</details>
+
+&nbsp;
 
 Wes Austin and Rosie Mueller (2024). [Forever Chemicals: Challenges and Opportunities for Researchers.](https://www.journals.uchicago.edu/doi/abs/10.1086/732188) **Review of Environmental Economics and Policy.**
-
 <details><summary> Abstract (+) </summary>
   <blockquote style="margin-left: 20px;">
     <p align="justify"> 
-   <p align="justify"> There is substantial academic, regulatory, and public attention on per- and polyfluoroalkyl substances (PFAS), often dubbed ``forever chemicals'' due to their resistance to degradation. PFAS are used in a wide variety of production processes and consumer products, are found in food and drinking water sources, and are subsequently ubiquitously present in samples of human blood, breast milk, and environmental media collected in the United States and globally. Exposure to PFAS has been linked to a litany of health effects including kidney and testicular cancer, immune system hypersensitivity and suppression, endocrine disruption, and adverse reproductive outcomes such as decreased fertility and lower birth weights. However, certain health endpoints are understudied in human populations and many questions remain unanswered, with  notable gaps in the literature regarding exposure pathways, health burdens, replacement PFAS, and disparate impacts. Regulation of PFAS is just beginning for many environmental media, and research opportunities described in this paper can potentially inform the development of new policies to address the PFAS problem. 
+There is substantial academic, regulatory, and public attention on per- and polyfluoroalkyl substances (PFAS), often dubbed ``forever chemicals'' due to their resistance to degradation. PFAS are used in a wide variety of production processes and consumer products, are found in food and drinking water sources, and are subsequently ubiquitously present in samples of human blood, breast milk, and environmental media collected in the United States and globally. Exposure to PFAS has been linked to a litany of health effects including kidney and testicular cancer, immune system hypersensitivity and suppression, endocrine disruption, and adverse reproductive outcomes such as decreased fertility and lower birth weights. However, certain health endpoints are understudied in human populations and many questions remain unanswered, with  notable gaps in the literature regarding exposure pathways, health burdens, replacement PFAS, and disparate impacts. Regulation of PFAS is just beginning for many environmental media, and research opportunities described in this paper can potentially inform the development of new policies to address the PFAS problem. 
       <br>
     </p> 
   </blockquote>   
 </details>
+
+
+&nbsp;
 
 Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2023). [Academic mobility in U.S. public schools: Evidence from nearly 3 million students.](https://www.sciencedirect.com/science/article/pii/S0047272723001986) **Journal of Public Economics**, Volume 228-105016.
 
@@ -44,6 +59,8 @@ Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koed
 </details>
 
 
+&nbsp;
+
 Austin W, Carattini S, Gomez-Mahecha J and Pesko M (2023) [The effects of contemporaneous air pollution on COVID-19 morbidity and mortality.](https://www.sciencedirect.com/science/article/pii/S0095069623000335) **Journal of Environmental Economics and Management.** [See prior working paper.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
 
    <details><summary> Abstract (+) </summary>
@@ -53,17 +70,26 @@ We examine the relationship between contemporaneous fine particulate matter expo
    <br></p> </blockquote>   
    </details>
 
+&nbsp;
+
 Austin, W. & Heutel, G. & Kreisman, D. (2019) [School Bus Emissions, Student Health, and Academic Performance](https://www.sciencedirect.com/science/article/abs/pii/S0272775719301530) **Economics of Education Review**, Elsevier, vol. 70(C), pages 109-126.
 
    <details><summary> Abstract (+) </summary>
    <blockquote> <p align="justify"> Diesel emissions from school buses expose children to high levels of air pollution; retrofitting bus engines can substantially reduce this exposure. Using variation from 2,656 retrofits across Georgia, we estimate effects of emissions reductions on district-level health and academic achievement. We demonstrate positive effects on respiratory health, measured by a statewide test of aerobic capacity. Placebo tests on body mass index show no impact. We also find that retrofitting districts experience significant test score gains in English and smaller gains in math. Our results suggest that engine retrofits can have meaningful and cost-effective impacts on health and cognitive functioning.<br></p> </blockquote>   
    </details>
 
+&nbsp;
+
 
 ## Working Papers
 ----   
 
-Petrusevich, M., Austin, W., Zheng, J., Evans, M., Ma, L., & Olmstead, S. (2025). Impacts of the SDWA Arsenic Rule on Arsenic Occurrence in U.S. Drinking Water.
+&nbsp;
+
+Petrusevich, M., Austin, W., Zheng, J., Evans, M., Ma, L., & Olmstead, S. (2025). Impacts of the SDWA Arsenic Rule on Arsenic Occurrence in U.S. Drinking Water. Revisions requested at **Environmental Science and Technology**. 
+
+
+&nbsp;
 
 Wes Austin, Isis Pan, and Bryan Parthum. (2024) [When it Rains, it Pours: Severe Weather Events, Flooding, and Drinking Water Quality.](https://www.epa.gov/system/files/documents/2024-12/2024-12.pdf) **NCEE Working Paper Series**
 
@@ -74,7 +100,9 @@ Climate change will alter the spatial distribution and intensity of precipitatio
    <br></p> </blockquote>   
    </details>
 
-Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality.](https://wesaustin.github.io/files/NCEE WP Service Area Boundaries and DW Quality.pdf) **NCEE Working Paper Series**
+&nbsp;
+
+Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Service Area Boundaries and Disparities in Drinking Water Quality](https://wesaustin.github.io/files/NCEE%20WP%20Service%20Area%20Boundaries%20and%20DW%20Quality.pdf) **NCEE Working Paper Series**
 
    <details><summary> Abstract (+) </summary>
    <blockquote>
@@ -82,7 +110,9 @@ Wes Austin, Tina Bardot, and AR El-Khattabi. (2024) [Comparative Analysis of Ser
 Service area boundaries are the geographic delineation of a drinking water system's customer base. A lack of precise service area boundaries may introduce errors in how measures of water quality are geospatially assigned in academic or regulatory work, potentially hindering our ability to locate and accurately characterize environmental justice concerns in drinking water. Many advances have been made in the collection and modelling of service areas, but there has been minimal systematic testing of the implications of employing distinct service area boundary types in the published literature. While it is generally understood that more accurate service area assignment methods will improve the precision of environmental justice analyses of drinking water quality, it is unclear how various assignment methods would impact the conclusions of empirical analyses or the potential magnitude of bias. This paper aims to fill this gap by summarizing a set of relatively novel environmental justice indicators in drinking water across all known service area assignment methods. We explore drinking water quality measures for arsenic, bacterial detection, disinfection byproduct formation, lead, nitrates, PFAS, and health-based violations of the Safe Drinking Water Act. We summarize each drinking water quality metric across service area assignment methods including the use of county served, zip codes served, the EPIC/SimpleLab dataset, boundaries created by the U.S. Geologic Survey, and a national data layer produced by EPA's Office of Research and Development. We find disparities in drinking water quality with respect to every drinking water quality metric included in this analysis, and we find that conclusions regarding the presence of a disparity depend on the service area boundary selected for at least one group of environmental justice concern for each drinking water quality measure. This paper helps to motivate the importance of collecting service areas and producing as well as maintaining a high-quality nationally consistent geodatabase of drinking water system service areas. 
    <br></p> </blockquote>   
    </details>
-   
+
+&nbsp;
+
  Austin, W (2020). [Coal Combustion Residuals, Water Quality, and Fetal Health.](https://wesaustin.github.io/files/Austin_JMP.pdf). 
    
    <details><summary> Abstract (+) </summary>
@@ -91,6 +121,8 @@ Service area boundaries are the geographic delineation of a drinking water syste
 Coal ash accounts for one third of industrial water pollution in the United States. I assess the relationship between coal ash surface water discharges and three relevant outcomes: surface water quality, municipal system water quality, and fetal health indicators from a birth certificate database in North Carolina. Identification relies on geographic variation in downstream status of monitoring sites and municipal water intake locations, plant closures or conversions, and the relative quantity of coal ash released over time. I find that coal ash releases are associated with higher conductivity and pH in both downstream surface waters and municipal water supplies sourced from these waters. Water systems affected by coal ash tend to have more Safe Drinking Water Act violations for disinfectant byproducts, inorganic chemicals, and health-based violations. I quantify the costs of coal ash water pollution with respect to fetal health and home sales. Exploiting variation arising from mothers' moves, I find that a newborn potentially exposed to coal ash water pollution is 1.7 percentage points more likely to have low birthweight compared to an unexposed sibling. I conclude by estimating how a legislative act mandating drinking well testing affected home sale prices in regions around coal ash plants. After the act, sale prices of homes within 1 mile of coal ash ponds declined by 12-14%, or over $37,000.
    <br></p> </blockquote>   
    </details>
+
+&nbsp;
 
 Austin, W (2019). [School Bus Diesel Retrofits, Air Quality, and Academic Performance: National Evidence Using Satellite Data.](https://wesaustin.github.io/files/Bus_Retrofits_National_102119.pdf)
 
@@ -101,14 +133,8 @@ Prior work shows that air pollution affects cognitive performance. School bus di
    <br></p> </blockquote>   
    </details> 
 
-Wes Austin, Bingjie Chen, Dan Goldhaber , Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva (2019). [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) **CALDER Working Paper No. 213-0119-1** 
+&nbsp;
 
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
-   <br></p> </blockquote>   
-   </details>  
-   
 Sass, Tim R. and Wes Austin (2019). [An Analysis of the Effects of Implementing Personalized Learning](https://wesaustin.github.io/files/NCSU_PASL_early_evaluation.pdf) **The National Center on Scaling up Effective Schools: Working Paper.** 
 
    <details><summary> Abstract (+) </summary>
@@ -116,4 +142,22 @@ Sass, Tim R. and Wes Austin (2019). [An Analysis of the Effects of Implementing 
    <p align="justify"> An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
    <br></p> </blockquote>   
    </details>   
+
+
+
+
+
+
+   <!--
+Wes Austin, Bingjie Chen, Dan Goldhaber, Eric Hanushek, Kristian Holden, Cory Koedel, Helen Ladd, Jin Luo, Eric Parsons, Gregory Phelan, Steven Rivkin, Tim Sass, Mavzuna Turaeva (2019). [Path to the Principalship and Value Added: A Cross-state Comparison of Elementary and Middle School Principals](https://caldercenter.org/publications/path-principalship-and-value-added-cross-state-comparison-elementary-and-middle-school) **CALDER Working Paper No. 213-0119-1** 
+
+<details><summary> Abstract (+) </summary>
+  <blockquote>
+    <p align="justify"> 
+      An increasing emphasis on principals as key to school improvement has contributed to efforts to elevate principal effectiveness that have taken various forms across the US. The primacy of the state as the focal point of educational reform elevates the value of understanding commonalities and differences among states in characteristics of principals, the distribution of principals among schools and ultimately the policies associated with more effective school leadership, particularly for disadvantaged children. This paper describes major state policies, the distribution of elementary school principals among schools along a several dimensions, and pathways to the principalship to illustrate similarities and differences among six states in the tenure and experience distributions and how these vary by student demographic characteristics and district size. Measurement of principal effectiveness and its relationship with principal characteristics and state policies would be ideal, but complications introduced by the dynamics of principal influences and confounding effects of other factors inhibit this effort. Nonetheless, school value added to achievement provides information on differences in principal effectiveness, and we report within-school variation value added across principal regimes and the associations between value added and principal characteristics. The analysis reveals many similarities and some differences among the states, some of which are related to differences in governance structures. Perhaps the most striking differences relate to the pathways to the principalship including the fraction of principals with experiences as assistant principals and teachers.
+      <br>
+    </p> 
+  </blockquote>   
+</details>
+-->
 
