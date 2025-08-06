@@ -7,30 +7,41 @@ subtitle:
 ## Publications
 ----
 
-Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). Characterizing Community Water Systems Exposed to Wildfire in the Western U.S. **Science of the Total Environment.** 
 
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
+
+
+Wachter, C., J. Suter, J. Burkhardt, W. Austin, B. Haley, B. Parthum, S. Pan, & S. Kolstoe. (2025). [Characterizing Community Water Systems Exposed to Wildfire in the Western U.S.](https://doi.org/10.1016/j.scitotenv.2025.179814) **Science of the Total Environment.** 
+
+<details><summary> Abstract (+) </summary>
+  <blockquote style="margin-left: 20px;">
+    <p align="justify"> 
    <p align="justify"> Wildfires have increased in size and severity and so has concern over how wildfires impact water security. The current literature suggests that wildfires may negatively impact surface water quality and community drinking water systems dependent on surface water as their drinking water source. Yet few studies consider the implications for the populations served by these downstream community drinking water systems. This research contributes to a more comprehensive understanding of water security by characterizing community water systems (CWSs) historically exposed to wildfire as well as their future potential wildfire risk in the western United States. Of the 9,176 CWSs, which supply approximately 72 million people in the western United States with drinking water, we find that 64% of all CWSs (serving approximately 60 million people) in our sample experienced at least one upstream wildfire between 1984 and 2022. We also find that CWSs that rely on surface water sources and serve large populations are more likely to have been exposed to upstream wildfires. Lastly, using CWS service area boundaries, we find that upstream wildfire exposure and landscape-based wildfire hazard potential are correlated with demographic characteristics such as lower education and household income.
-   <br></p> </blockquote>   
-   </details>
+      <br>
+    </p> 
+  </blockquote>   
+</details>
 
 Wes Austin and Rosie Mueller (2024). [Forever Chemicals: Challenges and Opportunities for Researchers.](https://www.journals.uchicago.edu/doi/abs/10.1086/732188) **Review of Environmental Economics and Policy.**
 
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
+<details><summary> Abstract (+) </summary>
+  <blockquote style="margin-left: 20px;">
+    <p align="justify"> 
    <p align="justify"> There is substantial academic, regulatory, and public attention on per- and polyfluoroalkyl substances (PFAS), often dubbed ``forever chemicals'' due to their resistance to degradation. PFAS are used in a wide variety of production processes and consumer products, are found in food and drinking water sources, and are subsequently ubiquitously present in samples of human blood, breast milk, and environmental media collected in the United States and globally. Exposure to PFAS has been linked to a litany of health effects including kidney and testicular cancer, immune system hypersensitivity and suppression, endocrine disruption, and adverse reproductive outcomes such as decreased fertility and lower birth weights. However, certain health endpoints are understudied in human populations and many questions remain unanswered, with  notable gaps in the literature regarding exposure pathways, health burdens, replacement PFAS, and disparate impacts. Regulation of PFAS is just beginning for many environmental media, and research opportunities described in this paper can potentially inform the development of new policies to address the PFAS problem. 
-   <br></p> </blockquote>   
-   </details>
-
+      <br>
+    </p> 
+  </blockquote>   
+</details>
 
 Wes Austin, David Figlio, Dan Goldhaber, Eric Hanushek, Tara Kilbride, Cory Koedel, Jaeseok Sean Lee, Jin Lou, Umut Özek, Eric Parsons, Steven Rivkin, Tim Sass, Katharine Strunk (2023). [Academic mobility in U.S. public schools: Evidence from nearly 3 million students.](https://www.sciencedirect.com/science/article/pii/S0047272723001986) **Journal of Public Economics**, Volume 228-105016.
 
-   <details><summary> Abstract (+) </summary>
-   <blockquote>
-   <p align="justify"> We use administrative panel data from seven states covering nearly 3 million students to document and explore variation in “academic mobility,” a term we use to describe the extent to which students’ ranks in the distribution of academic performance change during their public schooling careers. We find that student ranks are highly persistent during elementary and secondary education—that is, academic mobility is limited in U.S. schools on the whole. Still, there is non-negligible variation in the degree of upward mobility across some student subgroups as well as individual school districts. On average, districts that exhibit the greatest upward academic mobility serve more socioeconomically advantaged populations and have higher value-added to student achievement.
-   <br></p> </blockquote>   
-   </details>
+<details><summary> Abstract (+) </summary>
+  <blockquote style="margin-left: 20px;">
+    <p align="justify"> 
+      We use administrative panel data from seven states covering nearly 3 million students to document and explore variation in “academic mobility,” a term we use to describe the extent to which students’ ranks in the distribution of academic performance change during their public schooling careers. We find that student ranks are highly persistent during elementary and secondary education—that is, academic mobility is limited in U.S. schools on the whole. Still, there is non-negligible variation in the degree of upward mobility across some student subgroups as well as individual school districts. On average, districts that exhibit the greatest upward academic mobility serve more socioeconomically advantaged populations and have higher value-added to student achievement.
+      <br>
+    </p> 
+  </blockquote>   
+</details>
 
 
 Austin W, Carattini S, Gomez-Mahecha J and Pesko M (2023) [The effects of contemporaneous air pollution on COVID-19 morbidity and mortality.](https://www.sciencedirect.com/science/article/pii/S0095069623000335) **Journal of Environmental Economics and Management.** [See prior working paper.](https://wesaustin.github.io/files/Air_Pollution_and_COVID_Mortality.pdf)
