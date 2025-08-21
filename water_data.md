@@ -35,7 +35,7 @@ There are additional datasets that cover some or all of the US.
  
 Other datasets featuring drinking water sampling information include:
 - [The National Environmental Public Health Tracking Network](https://ephtracking.cdc.gov/DataExplorer/): The CDC collects information on 12 drinking water contaminants of concern from 28 states over 2001-2021. The tracking tool allows easy download after customizing your data query. 
-- [Environmental Working Group Tap Water Databse](https://www.ewg.org/tapwater/): Another resource for finding information on drinking water quality.   
+- [Environmental Working Group Tap Water Database](https://www.ewg.org/tapwater/): Another resource for finding information on drinking water quality.   
 
 
 
